@@ -9691,3 +9691,8 @@ textarea.form-control {
     font-weight: 400;
     color: #0bdac5;
 }
+
+li2:before{
+  content: "● ";
+  color: #0bdac5;
+}
