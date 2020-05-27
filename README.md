@@ -7,3 +7,7 @@
 # 將Activities內容改成斜體
 
 # 在Activities的Microfilm加上影片連結
+
+# 在projects部份加上href，開新分頁到Youtube, drive等等
+
+# 在最後地址加上href到Google map，同時也為信箱加href
