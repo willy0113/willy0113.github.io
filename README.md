@@ -15,3 +15,5 @@
 # 改臉書圖示顏色及模糊，改愛心的顏色
 
 # 點send message後，跳到about me
+
+#使用font-awesome
