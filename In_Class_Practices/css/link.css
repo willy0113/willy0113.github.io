@@ -1,0 +1,12 @@
+a {
+    text-decoration-line: none;
+    background-color: #2196F3;
+    color: white;
+    border-radius: 5px;
+    /*border-style: solid;*/
+    /*border-color: #000000;*/
+    /*border-width: 1px;*/
+    padding: 5px;
+    margin: 5px;
+    box-shadow: inset -2px -2px 4px #124b79;
+}
