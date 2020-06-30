@@ -184,7 +184,7 @@ function clickbtna() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
@@ -228,11 +228,11 @@ function clickbtna2() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -272,11 +272,11 @@ function clickbtna3() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -315,11 +315,11 @@ function clickbtnb() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50){
+        }else if (score >= 60){
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -360,11 +360,11 @@ function clickbtnb2() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50){
+        }else if (score >= 60){
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -405,11 +405,11 @@ function clickbtnb3() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50){
+        }else if (score >= 60){
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -450,11 +450,11 @@ function clickbtnc() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -495,11 +495,11 @@ function clickbtnc2() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
@@ -540,11 +540,11 @@ function clickbtnc3() {
         $('.intro').append(score + '分').append($('<div>').addClass('separate')).append($('<div>').addClass('box'));
         $('.intro').show();
         /*console.log($('.intro').text());*/
-        if (score < 50) {
+        if (score < 60) {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
