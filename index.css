@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: gold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button1{
+    height: 50px;
+    font-weight: bold;
+    background-color: azure;
+    border-radius: 50%;
+    width: 50px;
+    box-shadow: 0 0 10px #052af7;
+    margin: auto;
+}
+
+.button2{
+    height: 50px;
+    font-weight: bold;
+    background-color: azure;
+    border-radius: 10px;
+    width: 70px;
+    box-shadow: 0 0 10px #052af7;
+    display: none;
+}
+
+.btn{
+    height: 50px;
+    font-weight: bold;
+    background-color: azure;
+    border-radius: 10px;
+    width: 90px;
+    box-shadow: 0 0 10px #052af7;
+    display: none;
+}
+
+button:hover {
+    cursor: pointer;
+    color: red;
+}
+
+button:focus {
+    outline: none;
+}
+
+
+.container {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #100f0f;
+    position: absolute;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.intro p {
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.box{
+    height: 100px;
+}
+
+.separate{
+    height: 100px;
+}
+
+.separatebtn{
+    width: 20px;
+}
+
+.intro div{
+    width: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lose{
+    background-color: rgb(247, 82, 70);
+    font-family: fantasy;
+    box-shadow: 30px 20px 20px #381111;
+}
+
+.win{
+    box-shadow: 0 0 80px #0af3de;
+    font-family: fantasy;
+}
