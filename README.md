@@ -15,3 +15,4 @@ Bootstrap template source: [Clark - Free One Page Resume Website Template - Colo
 1. 增加一個 css 來改變 about me 的資訊顏色
 2. 增加一個 css 讓 Education & Experience 的資訊有列點效果
 3. 使用 font-awesome 的小圖示
+
