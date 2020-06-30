@@ -5,7 +5,7 @@ let content1 = ['請問下列何者是耶穌12門徒之一？', '下列何者為
 let correct1 = ['John', 'Helen', 'Julius Caesar', 'Arthur', 'Geoffrey Chaucer', 'Oedipus', 'Virgil', 'Cain', 'Eve', 'Plato', 'Odysseus', 'Joy', 'Karen', 'Petrarch', 'Alexander']
 
 
-let content2 = ['請問〈烏托邦〉的作者為下列何者？', '在〈失樂園〉中誰誘惑夏娃吃禁果？', '請問〈格列佛遊記〉的作者為？', '〈哈姆雷特〉、〈李爾王〉、〈馬克白〉和〈奧賽羅〉是誰所寫的四大悲劇？', '下列何者是〈第十二夜〉的角色之一？', '下列何者為〈咆哮山莊〉的作者？', '"The Raven"為哪一位詩人的作品？', '受巴洛克風格影響的玄學派詩人為？', '現在英語國家最為流行的〈欽定版聖經〉為哪一個王下令翻譯的？', '秀髮劫的主角名字為？']
+let content2 = ['請問〈烏托邦〉的作者為下列何者？', '在〈失樂園〉中誰誘惑夏娃吃禁果？', '請問〈格列佛遊記〉的作者為？', '〈哈姆雷特〉、〈李爾王〉、〈馬克白〉和〈奧賽羅〉是誰所寫的四大悲劇？', '下列何者是〈第十二夜〉的角色之一？', '下列何者為〈咆哮山莊〉的作者？', '"The Raven"為哪一位詩人的作品？', '受巴洛克風格影響的玄學派詩人為？', '現在英語國家最為流行的〈欽定版聖經〉為哪一個王下令翻譯的？', '〈秀髮劫〉的主角名字為？']
 let correct2 = ['Thomas More', 'Satan', 'Jonathan Swift', 'William Shakespeare', 'Viola', 'Emily Brontë', 'Edgar Allan Poe', 'John Donne', 'James', 'Belinda', 'John Legend', 'Olivia', 'Wade', 'Elizabeth', 'Aphra Behn']
 
 
