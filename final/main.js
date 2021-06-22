@@ -5,7 +5,7 @@ let content1 = ['請問Antigone的妹妹是誰？', '"He has no right to keep me
 let correct1 = ['Ismene', 'Creon', 'Haemon', 'Claudius', 'Hamlet', 'Ophelia', 'Edmund', 'Cordelia', 'Kent', 'Gloucester', 'Odysseus', 'Goneril', 'Regan', 'Helmet', 'Edgar']
 
 
-let content2 = ['"I know him to be artful, selfish...in short, a sentimental knave"這裡的sentimental knave指誰？', '誰喜歡Charles Surface？', '"I have lately detected him in frequent conference with old Rowley"其中的him是誰？', 'Sir Oliver假扮成誰去見Charles？', '在screen scene這幕裡誰躲在屏風後面？', '《四川好人》的作者是誰？', '《四川好人》裡的賣水人叫什麼？', 'Shen Te愛上的飛行員是誰？', '《四川好人》裡誰給了Shen Te一張空白支票？', '"She is a human being, sir! And not devoid of common sense!"是誰說的？']
+let content2 = ['"I know him to be artful, selfish...in short, a sentimental knave"這裡的sentimental knave指誰？', '誰自己單方面喜歡Charles Surface？', '"I have lately detected him in frequent conference with old Rowley"其中的him是誰？', 'Sir Oliver假扮成誰去見Charles？', '在screen scene這幕裡誰躲在屏風後面？', '《四川好人》的作者是誰？', '《四川好人》裡的賣水人叫什麼？', 'Shen Te愛上的飛行員是誰？', '《四川好人》裡誰給了Shen Te一張空白支票？', '"She is a human being, sir! And not devoid of common sense!"是誰說的？']
 let correct2 = ['Joseph', 'Lady Sneerwell', 'Snake', 'Mr. Premium', 'Lady Teazle', 'Bertholt Brecht', 'Wong', 'Yang Sun', 'Shu Fu', 'Shui Ta', 'Mr. Stanley', 'Mr. Moses', 'Carpenter', 'Rowley', 'Maria']
 
 
