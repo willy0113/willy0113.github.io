@@ -185,11 +185,11 @@ function clickbtna() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 50) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }  
@@ -229,11 +229,11 @@ function clickbtna2() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }  
@@ -273,11 +273,11 @@ function clickbtna3() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }  
@@ -316,11 +316,11 @@ function clickbtnb() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60){
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
@@ -361,11 +361,11 @@ function clickbtnb2() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60){
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
@@ -406,11 +406,11 @@ function clickbtnb3() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60){
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
@@ -451,11 +451,11 @@ function clickbtnc() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
@@ -496,11 +496,11 @@ function clickbtnc2() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
@@ -541,11 +541,11 @@ function clickbtnc3() {
         $('.intro').show();
         /*console.log($('.intro').text());*/
         if (score < 60) {
-            $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
+            $('.box').append($('<div>').text('哇！Shakespeare沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
         }else if (score >= 60) {
-            $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
+            $('.box').append($('<div>').text('恭喜你成功幫助Shakespeare逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
         }
