@@ -1,6 +1,6 @@
 
 
-let content1 = ['請問下Antigone的妹妹是誰？', ''He has no right to keep me from my own.'的He是誰？', '「我來，我見，我征服」是誰的名言？', '圓桌武士效忠於哪一個王？', '〈坎特伯里故事集〉的作者為？', '戀母情結的正式名稱源自於誰？', '在〈地獄〉中誰引領但丁穿過地獄？', '在〈聖經〉中誰殺了自己的親弟弟？', '在〈聖經〉中誰吃了禁果？', '亞里斯多德的老師為？']
+let content1 = ['請問Antigone的妹妹是誰？', '''He has no right to keep me from my own.''的He是誰？', '「我來，我見，我征服」是誰的名言？', '圓桌武士效忠於哪一個王？', '〈坎特伯里故事集〉的作者為？', '戀母情結的正式名稱源自於誰？', '在〈地獄〉中誰引領但丁穿過地獄？', '在〈聖經〉中誰殺了自己的親弟弟？', '在〈聖經〉中誰吃了禁果？', '亞里斯多德的老師為？']
 
 let correct1 = ['Ismene', 'Creon', 'Julius Caesar', 'Arthur', 'Geoffrey Chaucer', 'Oedipus', 'Virgil', 'Cain', 'Eve', 'Plato', 'Odysseus', 'Joy', 'Karen', 'Petrarch', 'Alexander']
 
