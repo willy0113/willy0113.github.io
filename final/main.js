@@ -188,7 +188,7 @@ function clickbtna() {
             $('.box').append($('<div>').text('哇！小明沒逃出迷宮'));
             $('.box').show();
             $('.container').addClass('lose');
-        }else if (score >= 50) {
+        }else if (score >= 60) {
             $('.box').append($('<div>').text('恭喜你成功幫助小明逃出迷宮！'));
             $('.box').show();
             $('.container').addClass('win');
