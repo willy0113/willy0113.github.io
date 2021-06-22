@@ -1,6 +1,6 @@
 
 
-let content1 = ['請問Antigone的妹妹是誰？', '''He has no right to keep me from my own.''的He是誰？', '在Antigone中誰懂得中庸之道？', '誰殺了Hamlet的爸爸？', '''I must be cruel only to be kind''是誰的名言？', 'Polonius認為是誰讓Hamlet發瘋？', 'Gloucester的私生子是誰？', 'Lear的三個女兒中誰真正愛他？', '''My master calls me, I must not say no.''是誰說的？', '在李爾王中誰被戳瞎雙眼？']
+let content1 = ['請問Antigone的妹妹是誰？', '"He has no right to keep me from my own."的He是誰？', '在Antigone中誰懂得中庸之道？', '誰殺了Hamlet的爸爸？', '"I must be cruel only to be kind"是誰的名言？', 'Polonius認為是誰讓Hamlet發瘋？', 'Gloucester的私生子是誰？', 'Lear的三個女兒中誰真正愛他？', '"My master calls me, I must not say no."是誰說的？', '在李爾王中誰被戳瞎雙眼？']
 
 let correct1 = ['Ismene', 'Creon', 'Haemon', 'Claudius', 'Hamlet', 'Ophelia', 'Edmund', 'Cordelia', 'Kent', 'Gloucester', 'Odysseus', 'Eve', 'Karen', 'Helmet', 'Edgar']
 
