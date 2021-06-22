@@ -5,8 +5,8 @@ let content1 = ['請問Antigone的妹妹是誰？', '"He has no right to keep me
 let correct1 = ['Ismene', 'Creon', 'Haemon', 'Claudius', 'Hamlet', 'Ophelia', 'Edmund', 'Cordelia', 'Kent', 'Gloucester', 'Odysseus', 'Goneril', 'Regan', 'Helmet', 'Edgar']
 
 
-let content2 = ['請問〈烏托邦〉的作者為下列何者？', '在〈失樂園〉中誰誘惑夏娃吃禁果？', '請問〈格列佛遊記〉的作者為？', '〈哈姆雷特〉、〈李爾王〉、〈馬克白〉和〈奧賽羅〉是誰所寫的四大悲劇？', '下列何者是〈第十二夜〉的角色之一？', '下列何者為〈咆哮山莊〉的作者？', '"The Raven"為哪一位詩人的作品？', '受巴洛克風格影響的玄學派詩人為？', '現在英語國家最為流行的〈欽定版聖經〉為哪一個王下令翻譯的？', '〈秀髮劫〉的主角名字為？']
-let correct2 = ['Thomas More', 'Satan', 'Jonathan Swift', 'William Shakespeare', 'Viola', 'Emily Brontë', 'Edgar Allan Poe', 'John Donne', 'James', 'Belinda', 'John Legend', 'Olivia', 'Wade', 'Elizabeth', 'Aphra Behn']
+let content2 = ['"I know him to be artful, selfish...in short, a sentimental knave"這裡的sentimental knave指誰？', '誰喜歡Charles Surface？', '"I have lately detected him in frequent conference with old Rowley"其中的him是誰？', 'Sir Oliver假扮成誰去見Charles？', '在screen scene這幕裡誰躲在屏風後面？', '《四川好人》的作者是誰？', '《四川好人》裡的賣水人叫什麼？', 'Shen Te愛上的飛行員是誰？', '《四川好人》裡誰給了Shen Te一張空白支票？', '"She is a human being, sir! And not devoid of common sense!"是誰說的？']
+let correct2 = ['Joseph', 'Lady Sneerwell', 'Snake', 'Mr. Premium', 'Lady Teazle', 'Bertholt Brecht', 'Wong', 'Yang Sun', 'Shu Fu', 'Shui Ta', 'Mr. Stanley', 'Mr. Moses', 'Carpenter', 'Rowley', 'Maria']
 
 
 let content3 = ['請問〈都柏林人〉的作者為下列何者？', '下列哪位女性諾貝爾文學獎得主主要關注種族議題？', '下列哪位英國作家的知名小說為〈達洛維夫人〉並被譽為二十世紀現代主義與女性主義的先鋒？', '在〈聖堂殉道記〉中死者的名字為？', '〈克拉普最後的錄音帶〉中有一幕經典的吃香蕉片段讓人印象深刻，請問主角的名字為？', '下列何者圍著名愛爾蘭詩人，"Easter, 1916"為他的詩？', '著名反烏托邦電影"1984"改編自哪位作者的書？', '世界文學名著〈亂世佳人〉的男主角為？', '請問三大反烏托邦作品中〈美麗新世界〉的作者為？','〈大亨小傳〉為20世紀美國經典文學作品，請問男主角名字為？']
