@@ -9,8 +9,8 @@ let content2 = ['"I know him to be artful, selfish...in short, a sentimental kna
 let correct2 = ['Joseph', 'Lady Sneerwell', 'Snake', 'Mr. Premium', 'Lady Teazle', 'Bertholt Brecht', 'Wong', 'Yang Sun', 'Shu Fu', 'Shui Ta', 'Mr. Stanley', 'Mr. Moses', 'Carpenter', 'Rowley', 'Maria']
 
 
-let content3 = ['在Juno and the Paycock這部劇中paycock所指的是誰？', '在Spreading The News這部劇中誰把農具忘在市集？', '在Juno and the Paycock這部劇中Mary懷了誰的孩子？', '在The Factory Girls中，誰說了"I would rather have a horse than get married"？', '"in the one Love, in the other Freedom. And she said to the woman, Freedom"這句話是誰說的？', '誰是The Belle of the Belfast City這部劇中唯一的黑人？', '著名反烏托邦電影"1984"改編自哪位作者的書？', '世界文學名著〈亂世佳人〉的男主角為？', '請問三大反烏托邦作品中〈美麗新世界〉的作者為？','〈大亨小傳〉為20世紀美國經典文學作品，請問男主角名字為？']
-let correct3 = ['Jack Boyle', 'Jack Smith', 'Charles Bentham', 'Rosemary', 'Rebecca', 'Belle', 'George Orwell', 'Rhett Butler', 'Aldous Huxley', 'Gatsby', 'Scott Fitzgerald', 'Jason', 'Joseph', 'Barista', 'Manuel']
+let content3 = ['在Juno and the Paycock這部劇中paycock所指的是誰？', '在Spreading The News這部劇中誰把農具忘在市集？', '在Juno and the Paycock這部劇中Mary懷了誰的孩子？', '在The Factory Girls中，誰說了"I would rather have a horse than get married"？', '"in the one Love, in the other Freedom. And she said to the woman, Freedom"這句話是誰說的？', '誰是The Belle of the Belfast City這部劇中唯一的黑人？', '"I want a life of my own. My own!...Most of all not yours. I am walking away from this violence."是誰說的？', '世界文學名著〈亂世佳人〉的男主角為？', '請問三大反烏托邦作品中〈美麗新世界〉的作者為？','〈大亨小傳〉為20世紀美國經典文學作品，請問男主角名字為？']
+let correct3 = ['Jack Boyle', 'Jack Smith', 'Charles Bentham', 'Rosemary', 'Rebecca', 'Belle', 'Janet', 'Rhett Butler', 'Aldous Huxley', 'Gatsby', 'Scott Fitzgerald', 'Jason', 'Joseph', 'Barista', 'Manuel']
 
 
 var RandomInt = (start, end) => {
