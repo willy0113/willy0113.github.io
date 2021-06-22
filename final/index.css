@@ -44,7 +44,6 @@ body {
     border-radius: 10px;
     width: 90px;
     box-shadow: -7px 4px 3px #222a38;
-    display: none;
 }
 
 button:hover {
